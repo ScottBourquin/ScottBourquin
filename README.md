@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ScottBourquin
 - 👀 I’m interested in ... Building better apps with a better experience
-- 🌱 I’m currently learning ... XCode/Swift and how to create a request for API
-- 💞️ I’m looking to collaborate on ... How to Request API and Build better apps
+- 🌱 I’m currently learning ... XCode/Swift and SwiftUI
+- 💞️ I’m looking to collaborate on ... Building a couple of projects for live events and reservations at private venues
 - 📫 How to reach me ... Scott@BourquinGroup.com
 - 
 
